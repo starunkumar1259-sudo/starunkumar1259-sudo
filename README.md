@@ -1,8 +1,8 @@
   **Hi 👋, I'm Tarun Kumar Sathi**
 
   ☁️ AWS Cloud | DevOps | Cloud Architecture | 🎨 Digital Artist
-  
-=========================================================================================================================================
+==================================================================================================================
+
 **👨‍💻 About Me**
 
 I’m Tarun Kumar Sathi, a Cloud & DevOps Architect
@@ -31,6 +31,7 @@ Building and deploying workloads on Kubernetes
 Creating cloud infrastructure using Terraform & AWS-native services
 
 ========================================================================================================================================
+
 **🎨 Art & Creativity**
 
 Technology isn't my only passion — I also enjoy creating digital art.
@@ -38,6 +39,7 @@ Technology isn't my only passion — I also enjoy creating digital art.
 My artwork and creative projects are part of my journey outside the world of cloud and technology.
 
 =========================================================================================================================================
+
 **🌟 My Goal**
 
 Learn. Build. Create. Improve. Repeat.
@@ -45,6 +47,7 @@ Learn. Build. Create. Improve. Repeat.
 My goal is to combine cloud technology, automation, and creativity to build useful, reliable, and interesting projects.
 
 ========================================================================================================================================
+
 **🌐 Connect With Me**
 
  💼 LinkedIn: https://www.linkedin.com/in/tarun-kumar-863144161
@@ -53,6 +56,7 @@ My goal is to combine cloud technology, automation, and creativity to build usef
  🐙 GitHub: https://github.com/starunkumar1259-sudo/starunkumar1259-sudo
  
 ========================================================================================================================================
+
 ⭐ Thanks for visiting my profile!
 
 Cloud ☁️ + DevOps 🚀 + Creativity 🎨
