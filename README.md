@@ -88,7 +88,7 @@ My goal is to combine cloud technology, automation, and creativity to build usef
 
 🌐 Connect With Me
 💼 LinkedIn: https://www.linkedin.com/in/tarun-kumar-863144161
-🎨 Art / Instagram: https://www.youtube.com/@svmts_arts
+🎨 Art / Instagram: https://www.instagram.com/svmts_arts
 🎥 YouTube: https://www.youtube.com/@Tarun_PSPK4
 🐙 GitHub: https://github.com/starunkumar1259-sudo/starunkumar1259-sudo
 🚀 What You'll Find Here
