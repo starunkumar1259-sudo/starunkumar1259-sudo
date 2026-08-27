@@ -82,9 +82,6 @@ Learn. Build. Create. Improve. Repeat.
 
 My goal is to combine cloud technology, automation, and creativity to build useful, reliable, and interesting projects.
 
-📊 GitHub Stats
-
-🔥 GitHub Streak
 
 🌐 Connect With Me
 💼 LinkedIn: https://www.linkedin.com/in/tarun-kumar-863144161
